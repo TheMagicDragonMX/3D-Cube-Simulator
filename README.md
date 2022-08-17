@@ -1,18 +1,8 @@
-## Getting Started
+# 3D Simulated Cube
+Eighth Grade Assignment. The goal was to create and simulate the movement of a cube.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Objective
+With Java Swing, create a cube with the `paint()` method, and using something known as a Kronecker Delta, make the operations to get the cube to move, zoom in and out, and rotate in the three axes.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Showcase
+![Showcase as GIF](https://user-images.githubusercontent.com/88684972/185223842-e98baa58-a444-4271-ad10-e5dbc753d496.gif)
